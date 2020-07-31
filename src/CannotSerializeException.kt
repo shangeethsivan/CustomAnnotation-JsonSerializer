@@ -1,0 +1,1 @@
+class CannotSerializeException() : Exception("Cannot serialize this class")
