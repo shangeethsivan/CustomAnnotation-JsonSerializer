@@ -1,3 +1,7 @@
+import chikuserializer.annotations.Init
+import chikuserializer.annotations.JsonElement
+import chikuserializer.annotations.JsonSerialize
+
 @JsonSerialize
 class Person {
 

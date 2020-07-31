@@ -1,4 +1,11 @@
-class ShangeethSerializer {
+package chikuserializer
+
+import chikuserializer.exception.CannotSerializeException
+import chikuserializer.annotations.Init
+import chikuserializer.annotations.JsonElement
+import chikuserializer.annotations.JsonSerialize
+
+class ChikuSerializer {
 
     fun convertToJson(any: Any): String {
         checkIfSerializable(any)

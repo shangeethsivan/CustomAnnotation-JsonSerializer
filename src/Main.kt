@@ -1,5 +1,7 @@
+import chikuserializer.ChikuSerializer
+
 fun main() {
-    val serializer = ShangeethSerializer()
+    val serializer = ChikuSerializer()
     val person = Person()
     print(serializer.convertToJson(person))
 }
