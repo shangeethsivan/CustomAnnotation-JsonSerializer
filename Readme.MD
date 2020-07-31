@@ -1,5 +1,6 @@
 # Sample Json Serializer - Contains Basic Annotation Example
 
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/shangeethsivan/SampleJsonSerializer)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5e46917a22b94e5b861dc7a40d72e4fd)](https://app.codacy.com/manual/shangeeth95/SampleJsonSerializer?utm_source=github.com&utm_medium=referral&utm_content=shangeethsivan/SampleJsonSerializer&utm_campaign=Badge_Grade_Dashboard)
 
 This Serializer(ChikuSerializer) was created to learn how annotation works on Java / Kotlin.
