@@ -1,6 +1,6 @@
 # Sample Json Serializer - Contains Basic Annotation Example
 
-This was created to learn how annotation works on Java / Kotlin.
+This Serializer(ChikuSerializer) was created to learn how annotation works on Java / Kotlin.
 The code is written is kotlin.
 
 The idea was to have a class annotated with
